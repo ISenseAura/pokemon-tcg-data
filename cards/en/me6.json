@@ -18,7 +18,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Draw 2 cards from your deck."
+        "text": "Draw 2 cards."
       },
       {
         "name": "High Horsepower",
@@ -45,14 +45,14 @@
     ],
     "convertedRetreatCost": 3,
     "number": "1",
-    "artist": "Akira Komayama",
+    "artist": "Satoshi Ito",
     "rarity": "Common",
     "nationalPokedexNumbers": [
       214
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -79,8 +79,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for up to 2 Surskit and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Surskit and put them onto your Bench. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Bug Bite",
@@ -108,15 +108,16 @@
       283
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-2/small",
       "large": "https://images.scrydex.com/pokemon/me6-2/large"
-    }
+    },
+    "artist": "Gemi"
   },
   {
     "id": "me6-3",
@@ -138,7 +139,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "The Defending Pokémon can't attack during your next turn."
+        "text": "During your opponent's next turn, the Defending Pokémon can't use attacks."
       },
       {
         "name": "Bug Out",
@@ -167,8 +168,8 @@
       284
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -216,15 +217,16 @@
       331
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-4/small",
       "large": "https://images.scrydex.com/pokemon/me6-4/large"
-    }
+    },
+    "artist": "Minato"
   },
   {
     "id": "me6-5",
@@ -245,11 +247,11 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": ""
       },
       {
-        "name": "Punishing Needle",
+        "name": "Punishing Needles",
         "cost": [
           "Grass"
         ],
@@ -270,20 +272,21 @@
     ],
     "convertedRetreatCost": 2,
     "number": "5",
-    "rarity": "Uncommon",
+    "rarity": "Rare",
     "nationalPokedexNumbers": [
       332
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-5/small",
       "large": "https://images.scrydex.com/pokemon/me6-5/large"
-    }
+    },
+    "artist": "okayamatakatoshi"
   },
   {
     "id": "me6-6",
@@ -298,20 +301,22 @@
     ],
     "attacks": [
       {
-        "name": "Fade Away",
+        "name": "Fade Out",
         "cost": [
           "Grass"
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Return this Pokémon and all cards attached to it into your hand."
+        "text": "Put this Pokémon and all attached cards into your hand."
       },
       {
         "name": "Bug Out",
         "cost": [
-          "Grass"
+          "Colorless",
+          "Colorless",
+          "Colorless"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 3,
         "damage": "50×",
         "text": "Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards."
       }
@@ -332,15 +337,16 @@
       415
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-6/small",
       "large": "https://images.scrydex.com/pokemon/me6-6/large"
-    }
+    },
+    "artist": "nisimono"
   },
   {
     "id": "me6-7",
@@ -387,20 +393,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "7",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       416
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-7/small",
       "large": "https://images.scrydex.com/pokemon/me6-7/large"
-    }
+    },
+    "artist": "Masako Tomii"
   },
   {
     "id": "me6-8",
@@ -440,15 +447,16 @@
       492
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-8/small",
       "large": "https://images.scrydex.com/pokemon/me6-8/large"
-    }
+    },
+    "artist": "HYOGONOSUKE"
   },
   {
     "id": "me6-9",
@@ -468,8 +476,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Draw 2 cards."
+        "text": "Draw 2 cards.",
+        "damage": ""
       },
       {
         "name": "Solar Beam",
@@ -500,8 +508,8 @@
       640
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -524,7 +532,7 @@
     "abilities": [
       {
         "name": "Punk Out",
-        "text": "If your opponent has any Pokémon ex in play, this Pokémon's Retreat Cost is 0.",
+        "text": "If your opponent has any Pokémon ex in play, this Pokémon has no Retreat Cost.",
         "type": "Ability"
       }
     ],
@@ -557,15 +565,16 @@
       767
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-10/small",
       "large": "https://images.scrydex.com/pokemon/me6-10/large"
-    }
+    },
+    "artist": "Jerky"
   },
   {
     "id": "me6-11",
@@ -573,8 +582,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "340",
     "types": [
@@ -592,7 +601,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60+",
-        "text": "This attack does 160 more damage if your opponent's Active Pokémon has any damage counters on it."
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 160 more damage."
       },
       {
         "name": "Quadruple Hold",
@@ -603,7 +612,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "160",
-        "text": "During your opponent's next turn, the Defending Pokémon can't Retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
@@ -625,8 +634,8 @@
       768
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -674,8 +683,8 @@
       906
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -725,8 +734,8 @@
       907
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -755,8 +764,8 @@
       {
         "name": "Magical Bullet",
         "cost": [
-          "Colorless",
-          "Colorless"
+          "Grass",
+          "Grass"
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
@@ -781,8 +790,8 @@
       908
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -829,15 +838,16 @@
       928
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-15/small",
       "large": "https://images.scrydex.com/pokemon/me6-15/large"
-    }
+    },
+    "artist": "Kanami Ogata"
   },
   {
     "id": "me6-16",
@@ -873,20 +883,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "16",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       929
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-16/small",
       "large": "https://images.scrydex.com/pokemon/me6-16/large"
-    }
+    },
+    "artist": "Eri Kamei"
   },
   {
     "id": "me6-17",
@@ -902,8 +913,8 @@
     "evolvesFrom": "Dolliv",
     "abilities": [
       {
-        "name": "Oil Slip",
-        "text": "Once during your turn, you may switch your opponent's Active Pokémon with 1 of their Benched Pokémon. (Your opponent chooses which Benched Pokémon to switch.)",
+        "name": "Slippery Oil",
+        "text": "Once during your turn, you may use this Ability. Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
         "type": "Ability"
       }
     ],
@@ -931,20 +942,21 @@
     ],
     "convertedRetreatCost": 2,
     "number": "17",
-    "rarity": "Rare",
+    "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       930
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-17/small",
       "large": "https://images.scrydex.com/pokemon/me6-17/large"
-    }
+    },
+    "artist": "Aliya Chen"
   },
   {
     "id": "me6-18",
@@ -964,8 +976,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Switch your opponent's Active Pokémon with 1 of their Benched Pokémon. (Your opponent chooses which Benched Pokémon to switch.)"
+        "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "damage": ""
       },
       {
         "name": "Rear Kick",
@@ -996,15 +1008,16 @@
       58
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-18/small",
       "large": "https://images.scrydex.com/pokemon/me6-18/large"
-    }
+    },
+    "artist": "Teeziro"
   },
   {
     "id": "me6-19",
@@ -1020,7 +1033,7 @@
     "evolvesFrom": "Growlithe",
     "attacks": [
       {
-        "name": "Energetic Fang",
+        "name": "Fervent Fang",
         "cost": [
           "Fire",
           "Colorless",
@@ -1057,20 +1070,21 @@
     ],
     "convertedRetreatCost": 4,
     "number": "19",
-    "rarity": "Uncommon",
+    "rarity": "Rare",
     "nationalPokedexNumbers": [
       59
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-19/small",
       "large": "https://images.scrydex.com/pokemon/me6-19/large"
-    }
+    },
+    "artist": "Felicia Chen"
   },
   {
     "id": "me6-20",
@@ -1090,8 +1104,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Combustion",
@@ -1121,15 +1135,16 @@
       126
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-20/small",
       "large": "https://images.scrydex.com/pokemon/me6-20/large"
-    }
+    },
+    "artist": "GOSSAN"
   },
   {
     "id": "me6-21",
@@ -1146,13 +1161,13 @@
     "abilities": [
       {
         "name": "Buddy Boost",
-        "text": "Once during your turn, you may attach up to 1 Basic Fire Energy and up to 1 Basic Lightning Energy from your hand to your Magmortar or Electivire in any way you like.",
+        "text": "Once during your turn, you may use this Ability. Attach a Basic Fire Energy card, a Basic Lightning Energy card, or 1 of each from your hand to your Electivire and Magmortar in any way you like.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Heat Stamp",
+        "name": "Heat Crash",
         "cost": [
           "Fire",
           "Fire",
@@ -1181,15 +1196,16 @@
       467
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-21/small",
       "large": "https://images.scrydex.com/pokemon/me6-21/large"
-    }
+    },
+    "artist": "Ryuta Fuse"
   },
   {
     "id": "me6-22",
@@ -1222,7 +1238,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "During your next turn, this Pokémon can't use this attack."
+        "text": "During your next turn, this Pokémon can't use Combustion Blast."
       }
     ],
     "weaknesses": [
@@ -1243,15 +1259,16 @@
       324
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-22/small",
       "large": "https://images.scrydex.com/pokemon/me6-22/large"
-    }
+    },
+    "artist": "Tonji Matsuno"
   },
   {
     "id": "me6-23",
@@ -1277,7 +1294,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30×",
-        "text": "This attack does 30 damage for each Basic Fire Energy card in your discard pile. Then, shuffle those Energy cards into your deck."
+        "text": "This attack does 30 damage for each Basic Fire Energy card in your discard pile. Then, shuffle those cards into your deck."
       },
       {
         "name": "Strong Flare",
@@ -1308,8 +1325,8 @@
       479
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -1356,15 +1373,16 @@
       631
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-24/small",
       "large": "https://images.scrydex.com/pokemon/me6-24/large"
-    }
+    },
+    "artist": "Takeshi Nakamura"
   },
   {
     "id": "me6-25",
@@ -1379,13 +1397,13 @@
     ],
     "attacks": [
       {
-        "name": "Raising Waves",
+        "name": "Make Waves",
         "cost": [
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Each player shuffles their hand into their deck and draws 4 cards."
+        "text": "Each player shuffles their hand into their deck and draws 4 cards.",
+        "damage": ""
       },
       {
         "name": "Bubble Drain",
@@ -1414,15 +1432,16 @@
       226
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-25/small",
       "large": "https://images.scrydex.com/pokemon/me6-25/large"
-    }
+    },
+    "artist": "kodama"
   },
   {
     "id": "me6-26",
@@ -1447,7 +1466,7 @@
         "text": ""
       },
       {
-        "name": "Savage Whirlpool",
+        "name": "Brutal Whirlpool",
         "cost": [
           "Water",
           "Water",
@@ -1455,7 +1474,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "If there is a Stadium in play with \"Legendary\" in its name, this attack also does 50 damage to each of your opponent's Benched Pokémon."
+        "text": "If a Stadium that has \"Legendary\" in its name is in play, this attack also does 50 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
@@ -1471,20 +1490,21 @@
     ],
     "convertedRetreatCost": 3,
     "number": "26",
-    "rarity": "Uncommon",
+    "rarity": "Rare",
     "nationalPokedexNumbers": [
       382
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-26/small",
       "large": "https://images.scrydex.com/pokemon/me6-26/large"
-    }
+    },
+    "artist": "Anderson"
   },
   {
     "id": "me6-27",
@@ -1499,7 +1519,7 @@
     ],
     "attacks": [
       {
-        "name": "Slap",
+        "name": "Hook",
         "cost": [
           "Colorless"
         ],
@@ -1525,15 +1545,16 @@
       592
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-27/small",
       "large": "https://images.scrydex.com/pokemon/me6-27/large"
-    }
+    },
+    "artist": "Mousho"
   },
   {
     "id": "me6-28",
@@ -1550,13 +1571,13 @@
     "abilities": [
       {
         "name": "Deep Sea Draw",
-        "text": "You may use this Ability once during your turn. Draw a card. If you do, you may then put a card from your hand at the bottom of your deck.",
+        "text": "Once during your turn, you may use this Ability. Draw a card. If you do, you may put a card from your hand on the bottom of your deck.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Slap",
+        "name": "Gentle Slap",
         "cost": [
           "Water",
           "Colorless",
@@ -1584,15 +1605,16 @@
       593
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-28/small",
       "large": "https://images.scrydex.com/pokemon/me6-28/large"
-    }
+    },
+    "artist": "Nurikabe"
   },
   {
     "id": "me6-29",
@@ -1611,8 +1633,8 @@
     ],
     "abilities": [
       {
-        "name": "Ocean Gain",
-        "text": "You may use this Ability once during your turn if this Pokémon is in the Active Spot. Heal 50 damage from this Pokémon.",
+        "name": "Oceanic Gain",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Heal 50 damage from this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -1648,15 +1670,16 @@
       746
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-29/small",
       "large": "https://images.scrydex.com/pokemon/me6-29/large"
-    }
+    },
+    "artist": "5ban Graphics"
   },
   {
     "id": "me6-30",
@@ -1676,8 +1699,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Headbutt",
@@ -1708,15 +1731,16 @@
       125
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-30/small",
       "large": "https://images.scrydex.com/pokemon/me6-30/large"
-    }
+    },
+    "artist": "kurumitsu"
   },
   {
     "id": "me6-31",
@@ -1742,7 +1766,7 @@
         "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
-        "name": "Voltage Hammer",
+        "name": "Voltaic Hammer",
         "cost": [
           "Lightning",
           "Lightning",
@@ -1751,7 +1775,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60×",
-        "text": "Discard any number of Basic Energy from this Pokémon. This attack does 60 damage for each Energy discarded in this way."
+        "text": "Discard any amount of Basic Energy from this Pokémon, and this attack does 60 damage for each card you discarded in this way."
       }
     ],
     "weaknesses": [
@@ -1772,15 +1796,16 @@
       466
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-31/small",
       "large": "https://images.scrydex.com/pokemon/me6-31/large"
-    }
+    },
+    "artist": "hncl"
   },
   {
     "id": "me6-32",
@@ -1813,7 +1838,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "220",
-        "text": "Discard all Energy attached to this Pokémon."
+        "text": "Discard all Energy from this Pokémon."
       }
     ],
     "weaknesses": [
@@ -1822,23 +1847,24 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "32",
-    "rarity": "Rare",
+    "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       135
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-32/small",
       "large": "https://images.scrydex.com/pokemon/me6-32/large"
-    }
+    },
+    "artist": "hncl",
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-33",
@@ -1862,8 +1888,8 @@
           "Lightning"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "If you go first, you can use this attack during your first turn. Search your deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Power Rush",
@@ -1874,7 +1900,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
+        "text": "Flip a coin. If tails, during your next turn, this Pokémon can't use attacks."
       }
     ],
     "weaknesses": [
@@ -1883,8 +1909,6 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "aky CG Works",
     "rarity": "Double Rare",
@@ -1892,15 +1916,17 @@
       243
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-33/small",
       "large": "https://images.scrydex.com/pokemon/me6-33/large"
-    }
+    },
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-34",
@@ -1941,15 +1967,16 @@
       479
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-34/small",
       "large": "https://images.scrydex.com/pokemon/me6-34/large"
-    }
+    },
+    "artist": "Yukiko Baba"
   },
   {
     "id": "me6-35",
@@ -1965,13 +1992,13 @@
     "abilities": [
       {
         "name": "Incarnate Solidarity",
-        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the cost of attacks used by this Pokémon.",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Thunder Edge",
+        "name": "Thunderous Edge",
         "cost": [
           "Lightning",
           "Colorless",
@@ -1979,7 +2006,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Ignore all effects on your opponent's Active Pokémon for this attack's damage."
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
@@ -1999,8 +2026,8 @@
       642
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2049,8 +2076,8 @@
       871
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2097,15 +2124,16 @@
       921
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-37/small",
       "large": "https://images.scrydex.com/pokemon/me6-37/large"
-    }
+    },
+    "artist": "TOMATO MARKET"
   },
   {
     "id": "me6-38",
@@ -2141,20 +2169,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "38",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       922
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-38/small",
       "large": "https://images.scrydex.com/pokemon/me6-38/large"
-    }
+    },
+    "artist": "Susumu Maeya"
   },
   {
     "id": "me6-39",
@@ -2170,8 +2199,8 @@
     "evolvesFrom": "Pawmo",
     "abilities": [
       {
-        "name": "Power Plant Touch",
-        "text": "Once during your turn, you may attach a Basic Lightning Energy from your discard pile to 1 of your Pokémon.",
+        "name": "Generator's Touch",
+        "text": "Once during your turn, you may use this Ability. Attach a Basic Lightning Energy card from your discard pile to 1 of your Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2198,20 +2227,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "39",
-    "rarity": "Rare",
+    "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       923
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-39/small",
       "large": "https://images.scrydex.com/pokemon/me6-39/large"
-    }
+    },
+    "artist": "kirisAki"
   },
   {
     "id": "me6-40",
@@ -2228,10 +2258,9 @@
       {
         "name": "Agility",
         "cost": [
-          "Colorless",
-          "Colorless"
+          "Lightning"
         ],
-        "convertedEnergyCost": 2,
+        "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
       }
@@ -2258,15 +2287,16 @@
       940
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-40/small",
       "large": "https://images.scrydex.com/pokemon/me6-40/large"
-    }
+    },
+    "artist": "Yukihiro Tada"
   },
   {
     "id": "me6-41",
@@ -2288,7 +2318,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30+",
-        "text": "If this Pokémon evolved from Wattrel this turn, this attack does 90 more damage."
+        "text": "If this Pokémon evolved from Wattrel during this turn, this attack does 90 more damage."
       },
       {
         "name": "Speed Dive",
@@ -2323,15 +2353,16 @@
       941
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-41/small",
       "large": "https://images.scrydex.com/pokemon/me6-41/large"
-    }
+    },
+    "artist": "OKACHEKE"
   },
   {
     "id": "me6-42",
@@ -2356,7 +2387,7 @@
         "text": ""
       },
       {
-        "name": "Flash Bolt",
+        "name": "Flashing Bolt",
         "cost": [
           "Lightning",
           "Lightning",
@@ -2364,7 +2395,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "During your next turn, this Pokémon can't use this attack."
+        "text": "During your next turn, this Pokémon can't use Flashing Bolt."
       }
     ],
     "weaknesses": [
@@ -2378,20 +2409,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "42",
-    "rarity": "Rare",
+    "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       1008
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-42/small",
       "large": "https://images.scrydex.com/pokemon/me6-42/large"
-    }
+    },
+    "artist": "Atsushi Furusawa"
   },
   {
     "id": "me6-43",
@@ -2411,7 +2443,7 @@
           "Psychic"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10",
+        "damage": "20",
         "text": ""
       }
     ],
@@ -2438,15 +2470,16 @@
       96
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-43/small",
       "large": "https://images.scrydex.com/pokemon/me6-43/large"
-    }
+    },
+    "artist": "Hachinana"
   },
   {
     "id": "me6-44",
@@ -2505,8 +2538,8 @@
       97
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2536,7 +2569,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Prevent all damage from attacks done to this Pokémon during your opponent's next turn. You can't use this attack if any of your Pokémon used Chaos Crawler during your last turn."
+        "text": "During your opponent's next turn, prevent all damage from attacks done to this Pokémon. If 1 of your Pokémon used Chaos Crawler during your last turn, this attack can't be used."
       }
     ],
     "weaknesses": [
@@ -2563,15 +2596,16 @@
       487
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-45/small",
       "large": "https://images.scrydex.com/pokemon/me6-45/large"
-    }
+    },
+    "artist": "toriyufu"
   },
   {
     "id": "me6-46",
@@ -2620,15 +2654,16 @@
       622
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-46/small",
       "large": "https://images.scrydex.com/pokemon/me6-46/large"
-    }
+    },
+    "artist": "Hideki Ishikawa"
   },
   {
     "id": "me6-47",
@@ -2636,8 +2671,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "350",
     "types": [
@@ -2650,7 +2685,7 @@
     "abilities": [
       {
         "name": "Restricted Activation",
-        "text": "This Pokémon can't attack unless you have 10 cards or more in your hand.",
+        "text": "This Pokémon can't use attacks unless you have 10 or more cards in your hand.",
         "type": "Ability"
       }
     ],
@@ -2663,7 +2698,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "300",
-        "text": "This Pokémon does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
@@ -2691,8 +2726,8 @@
       623
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -2715,7 +2750,7 @@
     "abilities": [
       {
         "name": "Incarnate Solidarity",
-        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the cost of attacks used by this Pokémon.",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2749,15 +2784,16 @@
       905
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-48/small",
       "large": "https://images.scrydex.com/pokemon/me6-48/large"
-    }
+    },
+    "artist": "Anesaki Dynamic"
   },
   {
     "id": "me6-49",
@@ -2777,8 +2813,8 @@
           "Fighting"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+        "damage": ""
       }
     ],
     "weaknesses": [
@@ -2797,15 +2833,16 @@
       27
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-49/small",
       "large": "https://images.scrydex.com/pokemon/me6-49/large"
-    }
+    },
+    "artist": "Izucch"
   },
   {
     "id": "me6-50",
@@ -2822,7 +2859,7 @@
     "abilities": [
       {
         "name": "Counterattack Quills",
-        "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
+        "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), place 3 damage counters on the Attacking Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2848,20 +2885,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "50",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       28
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-50/small",
       "large": "https://images.scrydex.com/pokemon/me6-50/large"
-    }
+    },
+    "artist": "aoki"
   },
   {
     "id": "me6-51",
@@ -2906,15 +2944,16 @@
       95
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-51/small",
       "large": "https://images.scrydex.com/pokemon/me6-51/large"
-    }
+    },
+    "artist": "Kedamahadaitai Yawarakai"
   },
   {
     "id": "me6-52",
@@ -2931,13 +2970,13 @@
     "abilities": [
       {
         "name": "High Density Armor",
-        "text": "If this Pokémon has max HP, the damage this Pokémon receives from your opponent's attacks is reduced by 60.",
+        "text": "If this Pokémon has full HP, it takes 60 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Hard Swing",
+        "name": "Tough Swing",
         "cost": [
           "Fighting",
           "Fighting",
@@ -2968,15 +3007,16 @@
       208
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-52/small",
       "large": "https://images.scrydex.com/pokemon/me6-52/large"
-    }
+    },
+    "artist": "Shin Nagasawa"
   },
   {
     "id": "me6-53",
@@ -3032,8 +3072,8 @@
       383
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3056,7 +3096,7 @@
     "abilities": [
       {
         "name": "Incarnate Solidarity",
-        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the cost of attacks used by this Pokémon.",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -3090,15 +3130,16 @@
       645
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-54/small",
       "large": "https://images.scrydex.com/pokemon/me6-54/large"
-    }
+    },
+    "artist": "Oku"
   },
   {
     "id": "me6-55",
@@ -3118,8 +3159,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Gnaw",
@@ -3148,8 +3189,8 @@
       29
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3194,20 +3235,21 @@
     ],
     "convertedRetreatCost": 2,
     "number": "56",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       30
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-56/small",
       "large": "https://images.scrydex.com/pokemon/me6-56/large"
-    }
+    },
+    "artist": "Jiro Sasumo"
   },
   {
     "id": "me6-57",
@@ -3223,8 +3265,8 @@
     "evolvesFrom": "Nidorina",
     "abilities": [
       {
-        "name": "Motherly Summon",
-        "text": "Once during your turn, you may flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "name": "Maternal Call",
+        "text": "Once during your turn, you may use this Ability. Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
         "type": "Ability"
       }
     ],
@@ -3238,7 +3280,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "This Pokémon can't attack during your next turn."
+        "text": "During your next turn, this Pokémon can't use attacks."
       }
     ],
     "weaknesses": [
@@ -3259,15 +3301,16 @@
       31
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-57/small",
       "large": "https://images.scrydex.com/pokemon/me6-57/large"
-    }
+    },
+    "artist": "Aliya Chen"
   },
   {
     "id": "me6-58",
@@ -3287,8 +3330,8 @@
           "Darkness"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Your opponent's Active Pokémon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": ""
       },
       {
         "name": "Bug Out",
@@ -3318,15 +3361,16 @@
       167
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-58/small",
       "large": "https://images.scrydex.com/pokemon/me6-58/large"
-    }
+    },
+    "artist": "Apios"
   },
   {
     "id": "me6-59",
@@ -3342,16 +3386,16 @@
     "evolvesFrom": "Spinarak",
     "attacks": [
       {
-        "name": "Sharp Poison",
+        "name": "Tormenting Poison",
         "cost": [
           "Darkness"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 4 damage counters on that Pokémon instead of 1."
+        "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, place 4 damage counters on that Pokémon instead of 1.",
+        "damage": ""
       },
       {
-        "name": "Covert Needle",
+        "name": "Stealthy Sting",
         "cost": [
           "Colorless",
           "Colorless",
@@ -3373,20 +3417,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "59",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       168
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-59/small",
       "large": "https://images.scrydex.com/pokemon/me6-59/large"
-    }
+    },
+    "artist": "UKUMO uiti"
   },
   {
     "id": "me6-60",
@@ -3406,18 +3451,18 @@
           "Darkness"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Reveal the top 5 cards of your opponent’s deck. You may choose any number of Basic Pokémon you find there and put them onto their Bench. Your opponent shuffles the other cards back into their deck."
+        "text": "Reveal the top 5 cards of your opponent's deck. You may choose any number of Basic Pokémon you find there and put those Pokémon onto their Bench. Your opponent shuffles the other cards back into their deck.",
+        "damage": ""
       },
       {
-        "name": "Sinister Eyes",
+        "name": "Ominous Eyes",
         "cost": [
           "Darkness",
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "",
-        "text": "Put 5 damage counters on 1 of your opponent's Pokémon."
+        "text": "Place 5 damage counters on 1 of your opponent's Pokémon.",
+        "damage": ""
       }
     ],
     "weaknesses": [
@@ -3436,15 +3481,16 @@
       302
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-60/small",
       "large": "https://images.scrydex.com/pokemon/me6-60/large"
-    }
+    },
+    "artist": "Shinji Kanda"
   },
   {
     "id": "me6-61",
@@ -3480,20 +3526,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "61",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       318
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-61/small",
       "large": "https://images.scrydex.com/pokemon/me6-61/large"
-    }
+    },
+    "artist": "Julie Hang"
   },
   {
     "id": "me6-62",
@@ -3516,7 +3563,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Flip a coin. If heads, discard an Energy card attached to your opponent's Active Pokémon."
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
@@ -3530,20 +3577,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "62",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       319
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-62/small",
       "large": "https://images.scrydex.com/pokemon/me6-62/large"
-    }
+    },
+    "artist": "Kazumasa Yasukuni"
   },
   {
     "id": "me6-63",
@@ -3558,13 +3606,13 @@
     ],
     "attacks": [
       {
-        "name": "Shadow Cloak",
+        "name": "Shadow-Clad",
         "cost": [
           "Darkness"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for 2 Basic Darkness Energy and attach them to this Pokémon. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Dark Cutter",
@@ -3595,15 +3643,16 @@
       491
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-63/small",
       "large": "https://images.scrydex.com/pokemon/me6-63/large"
-    }
+    },
+    "artist": "Anesaki Dynamic"
   },
   {
     "id": "me6-64",
@@ -3643,15 +3692,16 @@
       509
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-64/small",
       "large": "https://images.scrydex.com/pokemon/me6-64/large"
-    }
+    },
+    "artist": "Hachinana"
   },
   {
     "id": "me6-65",
@@ -3667,13 +3717,13 @@
     "evolvesFrom": "Purrloin",
     "attacks": [
       {
-        "name": "Pursuit Claw",
+        "name": "Follow-Up Claw",
         "cost": [
           "Darkness"
         ],
         "convertedEnergyCost": 1,
         "damage": "20×",
-        "text": "This attack does 20 damage times the number of damage counters on your opponent's Active Pokémon."
+        "text": "This attack does 20 damage for each damage counter on your opponent's Active Pokémon."
       },
       {
         "name": "Slash",
@@ -3698,20 +3748,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "65",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       510
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-65/small",
       "large": "https://images.scrydex.com/pokemon/me6-65/large"
-    }
+    },
+    "artist": "Souichirou Gunjima"
   },
   {
     "id": "me6-66",
@@ -3761,15 +3812,16 @@
       570
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-66/small",
       "large": "https://images.scrydex.com/pokemon/me6-66/large"
-    }
+    },
+    "artist": "HYOGONOSUKE"
   },
   {
     "id": "me6-67",
@@ -3795,10 +3847,10 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20×",
-        "text": "This attack does 20 damage times the number of Pokémon you have in play."
+        "text": "This attack does 20 damage for each of your Pokémon in play."
       },
       {
-        "name": "Slash Down",
+        "name": "Slashing Strike",
         "cost": [
           "Darkness",
           "Colorless",
@@ -3806,7 +3858,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "210",
-        "text": "During your next turn, this Pokémon can't use Slash Down."
+        "text": "During your next turn, this Pokémon can't use Slashing Strike."
       }
     ],
     "weaknesses": [
@@ -3826,15 +3878,16 @@
       571
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-67/small",
       "large": "https://images.scrydex.com/pokemon/me6-67/large"
-    }
+    },
+    "artist": "Keisuke Azuma"
   },
   {
     "id": "me6-68",
@@ -3874,15 +3927,16 @@
       686
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-68/small",
       "large": "https://images.scrydex.com/pokemon/me6-68/large"
-    }
+    },
+    "artist": "kawayoo"
   },
   {
     "id": "me6-69",
@@ -3890,8 +3944,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "320",
     "types": [
@@ -3942,8 +3996,8 @@
       687
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -3970,8 +4024,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Search your deck for 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Slap",
@@ -3994,20 +4048,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "70",
-    "rarity": "Common",
+    "rarity": "Uncommon",
     "nationalPokedexNumbers": [
       877
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-70/small",
       "large": "https://images.scrydex.com/pokemon/me6-70/large"
-    }
+    },
+    "artist": "kurumitsu"
   },
   {
     "id": "me6-71",
@@ -4031,14 +4086,14 @@
         "text": ""
       },
       {
-        "name": "Special Whip",
+        "name": "Deadly Whip",
         "cost": [
           "Darkness",
           "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "50+",
-        "text": "Flip 2 coins. If both are heads, this attack does 150 more damage."
+        "text": "Flip 2 coins. If both of them are heads, this attack does 150 more damage."
       }
     ],
     "weaknesses": [
@@ -4058,15 +4113,16 @@
       893
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-71/small",
       "large": "https://images.scrydex.com/pokemon/me6-71/large"
-    }
+    },
+    "artist": "Nisota Niso"
   },
   {
     "id": "me6-72",
@@ -4081,14 +4137,14 @@
     ],
     "attacks": [
       {
-        "name": "Drag Out",
+        "name": "Drag Off",
         "cost": [
           "Fire",
           "Water"
         ],
         "convertedEnergyCost": 2,
-        "damage": "40",
-        "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+        "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 40 damage to the new Active Pokémon.",
+        "damage": ""
       },
       {
         "name": "Claw Slash",
@@ -4114,8 +4170,8 @@
       621
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4157,15 +4213,16 @@
       782
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-73/small",
       "large": "https://images.scrydex.com/pokemon/me6-73/large"
-    }
+    },
+    "artist": "June"
   },
   {
     "id": "me6-74",
@@ -4197,20 +4254,21 @@
     ],
     "convertedRetreatCost": 2,
     "number": "74",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       783
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-74/small",
       "large": "https://images.scrydex.com/pokemon/me6-74/large"
-    }
+    },
+    "artist": "Scav"
   },
   {
     "id": "me6-75",
@@ -4227,7 +4285,7 @@
     "abilities": [
       {
         "name": "Beat Scales",
-        "text": "Once during your turn, you may look at the top 6 cards of your deck and attach any number of Basic Energy cards you find there to your Dragon Pokémon in any way you like. Then, shuffle the other cards back into your deck.",
+        "text": "Once during your turn, you may use this Ability. Look at the top 6 cards of your deck and attach any number of Basic Energy cards you find there to your Dragon Pokémon in any way you like. Shuffle the other cards back into your deck.",
         "type": "Ability"
       }
     ],
@@ -4256,8 +4314,8 @@
       784
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4289,7 +4347,7 @@
         "text": ""
       },
       {
-        "name": "Breakthrough",
+        "name": "Break Through",
         "cost": [
           "Grass",
           "Darkness",
@@ -4297,7 +4355,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "110",
-        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "retreatCost": [
@@ -4305,20 +4363,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "76",
-    "rarity": "Rare",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       967
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-76/small",
       "large": "https://images.scrydex.com/pokemon/me6-76/large"
-    }
+    },
+    "artist": "Saboteri"
   },
   {
     "id": "me6-77",
@@ -4360,15 +4419,16 @@
       128
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-77/small",
       "large": "https://images.scrydex.com/pokemon/me6-77/large"
-    }
+    },
+    "artist": "Uta"
   },
   {
     "id": "me6-78",
@@ -4388,8 +4448,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Heal 20 damage from this Pokémon"
+        "text": "Heal 20 damage from this Pokémon.",
+        "damage": ""
       },
       {
         "name": "Headbutt",
@@ -4417,15 +4477,16 @@
       133
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-78/small",
       "large": "https://images.scrydex.com/pokemon/me6-78/large"
-    }
+    },
+    "artist": "UKUMO uiti"
   },
   {
     "id": "me6-79",
@@ -4441,7 +4502,7 @@
     "abilities": [
       {
         "name": "Energizing Present",
-        "text": "Once during your turn, if this Pokémon is in your Active Spot, you may look at the top 6 cards of your deck, choose an Energy you find there, reveal it, and put it into your hand. Shuffle the remaining cards and put them on the bottom of your deck.",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards and put them on the bottom of your deck.",
         "type": "Ability"
       }
     ],
@@ -4479,8 +4540,8 @@
       225
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4505,8 +4566,8 @@
         "name": "Bouncy-Bounce Charge",
         "cost": [],
         "convertedEnergyCost": 0,
-        "damage": "",
-        "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
+        "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck.",
+        "damage": ""
       }
     ],
     "weaknesses": [
@@ -4515,8 +4576,6 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "80",
     "artist": "TOMATO MARKET",
     "rarity": "Common",
@@ -4524,15 +4583,17 @@
       298
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-80/small",
       "large": "https://images.scrydex.com/pokemon/me6-80/large"
-    }
+    },
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-81",
@@ -4552,8 +4613,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": ""
       },
       {
         "name": "Peck",
@@ -4588,15 +4649,16 @@
       333
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-81/small",
       "large": "https://images.scrydex.com/pokemon/me6-81/large"
-    }
+    },
+    "artist": "Shiburingaru"
   },
   {
     "id": "me6-82",
@@ -4612,14 +4674,14 @@
     "evolvesFrom": "Swablu",
     "abilities": [
       {
-        "name": "Cotton Carrier",
+        "name": "Cottony Carrier",
         "text": "Your Basic Pokémon in play have no Retreat Cost.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Wing Flap",
+        "name": "Flap",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4647,20 +4709,21 @@
     ],
     "convertedRetreatCost": 1,
     "number": "82",
-    "rarity": "Uncommon",
+    "rarity": "Rare",
     "nationalPokedexNumbers": [
       334
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-82/small",
       "large": "https://images.scrydex.com/pokemon/me6-82/large"
-    }
+    },
+    "artist": "Atsushi Furusawa"
   },
   {
     "id": "me6-83",
@@ -4682,7 +4745,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30×",
-        "text": "Reveal any number of Pokémon from your hand. This attack does 30 damage for each type of Pokémon you revealed in this way."
+        "text": "Reveal any number of Pokémon from your hand, and this attack does 30 damage for each different type of Pokémon you revealed in this way."
       }
     ],
     "weaknesses": [
@@ -4703,8 +4766,8 @@
       352
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4719,8 +4782,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "280",
     "types": [
@@ -4732,7 +4795,7 @@
     "abilities": [
       {
         "name": "Ruler's Roar",
-        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy you find there to this Pokémon. Shuffle the remaining cards and put them on the bottom of your deck.",
+        "text": "Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.",
         "type": "Ability"
       }
     ],
@@ -4746,7 +4809,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50×",
-        "text": "This attack does 50 damage times the number of Fire and Lightning Energy attached to all of your Pokémon in play."
+        "text": "This attack does 50 damage for each Fire Energy and each Lightning Energy attached to all of your Pokémon."
       }
     ],
     "weaknesses": [
@@ -4773,8 +4836,8 @@
       384
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -4797,7 +4860,7 @@
     "abilities": [
       {
         "name": "Incarnate Solidarity",
-        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the cost of attacks used by this Pokémon.",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -4811,7 +4874,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "You may draw cards until you have 6 cards in hand."
+        "text": "You may draw cards until you have 6 cards in your hand."
       }
     ],
     "weaknesses": [
@@ -4836,15 +4899,16 @@
       641
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-85/small",
       "large": "https://images.scrydex.com/pokemon/me6-85/large"
-    }
+    },
+    "artist": "Uta"
   },
   {
     "id": "me6-86",
@@ -4890,15 +4954,16 @@
       661
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-86/small",
       "large": "https://images.scrydex.com/pokemon/me6-86/large"
-    }
+    },
+    "artist": "takashi shiraishi"
   },
   {
     "id": "me6-87",
@@ -4936,23 +5001,24 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "87",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "nationalPokedexNumbers": [
       662
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-87/small",
       "large": "https://images.scrydex.com/pokemon/me6-87/large"
-    }
+    },
+    "artist": "Souichirou Gunjima",
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-88",
@@ -4972,14 +5038,14 @@
     ],
     "abilities": [
       {
-        "name": "Excitedive",
-        "text": "If this Pokémon is in your hand, and you have a Colorless Mega Evolution Pokémon in play, you may use this Ability. Put this Pokémon onto your Bench.",
+        "name": "Excited Dive",
+        "text": "Once during your turn, if this Pokémon is in your hand, and if you have any Colorless Mega Evolution Pokémon ex in play, you may use this Ability. Put this Pokémon onto your Bench.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Claw Hunt",
+        "name": "Talon Hunt",
         "cost": [
           "Colorless",
           "Colorless"
@@ -5001,23 +5067,24 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "88",
     "rarity": "Double Rare",
     "nationalPokedexNumbers": [
       663
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-88/small",
       "large": "https://images.scrydex.com/pokemon/me6-88/large"
-    }
+    },
+    "artist": "5ban Graphics",
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-89",
@@ -5027,69 +5094,69 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 3 Supporter or Stadium cards in any combination, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "You may play only 1 Supporter card during your turn."
+      "Search your deck for up to 3 in any combination of Supporter and Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "number": "89",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-89/small",
       "large": "https://images.scrydex.com/pokemon/me6-89/large"
-    }
+    },
+    "artist": "Sanosuke Sakuma"
   },
   {
     "id": "me6-90",
-    "name": "Adventuring Lantern",
+    "name": "Adventure Lantern",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Search your deck for a Basic Fire Energy and a Basic Lightning Energy, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "You may play as many Item cards as you like during your turn."
+      "Search your deck for a Basic Fire Energy card and a Basic Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "number": "90",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-90/small",
       "large": "https://images.scrydex.com/pokemon/me6-90/large"
-    }
+    },
+    "artist": "inose yukie"
   },
   {
     "id": "me6-91",
-    "name": "Customized Vest",
+    "name": "Custom Vest",
     "supertype": "Trainer",
     "subtypes": [
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon this card is attached to (excluding any Mega Pokémon ex) takes 60 less damage from the attacks of your opponent's Mega Pokémon ex.",
-      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+      "If the Pokémon this card is attached to isn't a Mega Evolution Pokémon ex, it takes 60 less damage from attacks from your opponent's Mega Evolution Pokémon ex (after applying Weakness and Resistance)."
     ],
     "number": "91",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-91/small",
       "large": "https://images.scrydex.com/pokemon/me6-91/large"
-    }
+    },
+    "artist": "Toyste Beach"
   },
   {
     "id": "me6-92",
@@ -5099,21 +5166,21 @@
       "Supporter"
     ],
     "rules": [
-      "Draw 2 cards. If your opponents has 3 or less Prize cards remaining, draw 2 more cards.",
-      "You may play only 1 Supporter card during your turn."
+      "Draw 2 cards. If your opponent has 3 or fewer Prize cards remaining, draw 2 more cards."
     ],
     "number": "92",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-92/small",
       "large": "https://images.scrydex.com/pokemon/me6-92/large"
-    }
+    },
+    "artist": "DOM"
   },
   {
     "id": "me6-93",
@@ -5123,21 +5190,21 @@
       "Supporter"
     ],
     "rules": [
-      "Heal 50 damage from all Pokémon in play (both yours and your opponent's).",
-      "You may play only 1 Supporter card during your turn."
+      "Heal 50 damage from each Pokémon (both yours and your opponent's)."
     ],
     "number": "93",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-93/small",
       "large": "https://images.scrydex.com/pokemon/me6-93/large"
-    }
+    },
+    "artist": "Souichirou Gunjima"
   },
   {
     "id": "me6-94",
@@ -5147,15 +5214,14 @@
       "Stadium"
     ],
     "rules": [
-      "You can play this card only with the other half of Legendary Pyroduct. Put both halves into play next to each other. They count as 1 Stadium card.",
       "Evolution Pokémon in play (both yours and your opponent's) have no Abilities."
     ],
     "number": "94",
     "artist": "akagi",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5172,15 +5238,14 @@
       "Stadium"
     ],
     "rules": [
-      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities.",
-      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities."
     ],
     "number": "95",
     "artist": "akagi",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5197,15 +5262,14 @@
       "Stadium"
     ],
     "rules": [
-      "You can play this card only with the other half of Legendary Summit. Put both halves into play next to each other. They count as 1 Stadium card.",
-      "When Knocked Out by damage from an opponent's attack, both player's Colorless Pokémon give up 1 less Prize card."
+      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card."
     ],
     "number": "96",
     "artist": "nagimiso",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5222,15 +5286,14 @@
       "Stadium"
     ],
     "rules": [
-      "When Knocked Out by damage from an opponent's attack, both player's Colorless Pokémon give up 1 less Prize card.",
-      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card."
     ],
     "number": "97",
     "artist": "nagimiso",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5247,15 +5310,14 @@
       "Stadium"
     ],
     "rules": [
-      "You can play this card only with the other half of Legendary Trench. Put both halves into play next to each other. They count as 1 Stadium card.",
-      "Whenever a Pokémon in play is healed (both yours and your opponent's), double the amount healed."
+      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed."
     ],
     "number": "98",
     "artist": "danciao",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5272,15 +5334,14 @@
       "Stadium"
     ],
     "rules": [
-      "Whenever a Pokémon in play is healed (both yours and your opponent's), double the amount healed.",
-      "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed."
     ],
     "number": "99",
     "artist": "danciao",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5294,11 +5355,12 @@
     "name": "Mega Rayquaza Cap",
     "supertype": "Trainer",
     "subtypes": [
+      "MEGA",
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon this card is attached to can use the attack on this card.",
-      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+      "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -5307,40 +5369,40 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "For each of your Pokémon in play that has a Mega Rayquaza Cap attached to it, search your deck for a Basic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+        "text": "For each of your Pokémon that has a Mega Rayquaza Cap attached, search your deck for a Basic Energy card and attach it to that Pokémon. Then, shuffle your deck.",
+        "damage": ""
       }
     ],
     "number": "100",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-100/small",
       "large": "https://images.scrydex.com/pokemon/me6-100/large"
-    }
+    },
+    "artist": "AYUMI ODASHIMA"
   },
   {
     "id": "me6-101",
-    "name": "Tasty Donuts Rice Ball",
+    "name": "Tasty Rice Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Heal 30 damage from your Active Pokémon. Heal 30 more damage for each Delicious Rice Balls card in your discard pile (not including this card).",
-      "You may play as many Item cards as you like during your turn."
+      "Heal 30 damage from your Active Pokémon. For each Tasty Rice Ball card (not including this card) in your discard pile, heal 30 more damage."
     ],
     "number": "101",
     "artist": "AYUMI ODASHIMA",
     "rarity": "Common",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5357,21 +5419,21 @@
       "Supporter"
     ],
     "rules": [
-      "Draw 2 cards. Then, if there is a Stadium in play with \"Legendary\" in its name, put this card back into your hand instead of discarding it.",
-      "You may play only 1 Supporter card during your turn."
+      "Draw 2 cards. If you drew any cards in this way, and if a Stadium that has \"Legendary\" in its name is in play, put this Tate & Liza's Training into your hand instead of the discard pile."
     ],
     "number": "102",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-102/small",
       "large": "https://images.scrydex.com/pokemon/me6-102/large"
-    }
+    },
+    "artist": "Yuu Nishida"
   },
   {
     "id": "me6-103",
@@ -5381,15 +5443,14 @@
       "Supporter"
     ],
     "rules": [
-      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move 1 Energy from your previous Active Pokémon to your new Active Pokémon.",
-      "You may play only 1 Supporter card during your turn."
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon."
     ],
     "number": "103",
     "artist": "GIDORA",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5418,7 +5479,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "The Defending Pokémon can't attack during your next turn."
+        "text": "During your opponent's next turn, the Defending Pokémon can't use attacks."
       },
       {
         "name": "Bug Out",
@@ -5441,14 +5502,14 @@
     ],
     "convertedRetreatCost": 1,
     "number": "104",
-    "artist": "Kazumasa Yasukuni",
+    "artist": "REND",
     "rarity": "Illustration Rare",
     "nationalPokedexNumbers": [
       284
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5495,15 +5556,16 @@
       906
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-105/small",
       "large": "https://images.scrydex.com/pokemon/me6-105/large"
-    }
+    },
+    "artist": "Jiro Sasumo"
   },
   {
     "id": "me6-106",
@@ -5523,8 +5585,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Switch your opponent's Active Pokémon with 1 of their Benched Pokémon. (Your opponent chooses which Benched Pokémon to switch.)"
+        "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "damage": ""
       },
       {
         "name": "Rear Kick",
@@ -5555,15 +5617,16 @@
       58
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-106/small",
       "large": "https://images.scrydex.com/pokemon/me6-106/large"
-    }
+    },
+    "artist": "Yoshimoto Yoshimon"
   },
   {
     "id": "me6-107",
@@ -5580,13 +5643,13 @@
     "abilities": [
       {
         "name": "Buddy Boost",
-        "text": "Once during your turn, you may attach up to 1 Basic Fire Energy and up to 1 Basic Lightning Energy from your hand to your Magmortar or Electivire in any way you like.",
+        "text": "Once during your turn, you may use this Ability. Attach a Basic Fire Energy card, a Basic Lightning Energy card, or 1 of each from your hand to your Electivire and Magmortar in any way you like.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Heat Stamp",
+        "name": "Heat Crash",
         "cost": [
           "Fire",
           "Fire",
@@ -5615,15 +5678,16 @@
       467
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-107/small",
       "large": "https://images.scrydex.com/pokemon/me6-107/large"
-    }
+    },
+    "artist": "Taiga Kasai"
   },
   {
     "id": "me6-108",
@@ -5649,7 +5713,7 @@
         "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
-        "name": "Voltage Hammer",
+        "name": "Voltaic Hammer",
         "cost": [
           "Lightning",
           "Lightning",
@@ -5658,7 +5722,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60×",
-        "text": "Discard any number of Basic Energy from this Pokémon. This attack does 60 damage for each Energy discarded in this way."
+        "text": "Discard any amount of Basic Energy from this Pokémon, and this attack does 60 damage for each card you discarded in this way."
       }
     ],
     "weaknesses": [
@@ -5679,15 +5743,16 @@
       466
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-108/small",
       "large": "https://images.scrydex.com/pokemon/me6-108/large"
-    }
+    },
+    "artist": "Rianti Hidayat"
   },
   {
     "id": "me6-109",
@@ -5728,15 +5793,16 @@
       871
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-109/small",
       "large": "https://images.scrydex.com/pokemon/me6-109/large"
-    }
+    },
+    "artist": "Tetsu Kayama"
   },
   {
     "id": "me6-110",
@@ -5752,7 +5818,7 @@
     "abilities": [
       {
         "name": "Incarnate Solidarity",
-        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the cost of attacks used by this Pokémon.",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -5787,8 +5853,8 @@
       905
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -5850,15 +5916,16 @@
       383
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-111/small",
       "large": "https://images.scrydex.com/pokemon/me6-111/large"
-    }
+    },
+    "artist": "Ryota Murayama"
   },
   {
     "id": "me6-112",
@@ -5908,15 +5975,16 @@
       570
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-112/small",
       "large": "https://images.scrydex.com/pokemon/me6-112/large"
-    }
+    },
+    "artist": "GOSSAN"
   },
   {
     "id": "me6-113",
@@ -5956,37 +6024,46 @@
       686
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-113/small",
       "large": "https://images.scrydex.com/pokemon/me6-113/large"
-    }
+    },
+    "artist": "Rond"
   },
   {
     "id": "me6-114",
-    "name": "Tauros",
+    "name": "Eevee",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
-    "hp": "130",
+    "hp": "70",
     "types": [
       "Colorless"
     ],
     "attacks": [
       {
-        "name": "Raging Horns",
+        "name": "Nap",
         "cost": [
-          "Colorless",
           "Colorless"
         ],
-        "convertedEnergyCost": 2,
-        "damage": "50+",
-        "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        "convertedEnergyCost": 1,
+        "text": "Heal 20 damage from this Pokémon.",
+        "damage": ""
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
       }
     ],
     "weaknesses": [
@@ -5996,18 +6073,18 @@
       }
     ],
     "retreatCost": [
-      "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost": 2,
+    "convertedRetreatCost": 1,
     "number": "114",
+    "artist": "Hideki Ishikawa",
     "rarity": "Illustration Rare",
     "nationalPokedexNumbers": [
-      128
+      133
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6032,8 +6109,8 @@
         "name": "Bouncy-Bounce Charge",
         "cost": [],
         "convertedEnergyCost": 0,
-        "damage": "",
-        "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
+        "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck.",
+        "damage": ""
       }
     ],
     "weaknesses": [
@@ -6042,23 +6119,24 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "115",
     "rarity": "Illustration Rare",
     "nationalPokedexNumbers": [
       298
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-115/small",
       "large": "https://images.scrydex.com/pokemon/me6-115/large"
-    }
+    },
+    "artist": "Narumi Sato",
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-116",
@@ -6074,14 +6152,14 @@
     "evolvesFrom": "Swablu",
     "abilities": [
       {
-        "name": "Cotton Carrier",
+        "name": "Cottony Carrier",
         "text": "Your Basic Pokémon in play have no Retreat Cost.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Wing Flap",
+        "name": "Flap",
         "cost": [
           "Colorless",
           "Colorless",
@@ -6114,15 +6192,16 @@
       334
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-116/small",
       "large": "https://images.scrydex.com/pokemon/me6-116/large"
-    }
+    },
+    "artist": "kodama"
   },
   {
     "id": "me6-117",
@@ -6144,7 +6223,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30×",
-        "text": "Reveal any number of Pokémon from your hand. This attack does 30 damage for each type of Pokémon you revealed in this way."
+        "text": "Reveal any number of Pokémon from your hand, and this attack does 30 damage for each different type of Pokémon you revealed in this way."
       }
     ],
     "weaknesses": [
@@ -6164,15 +6243,16 @@
       352
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-117/small",
       "large": "https://images.scrydex.com/pokemon/me6-117/large"
-    }
+    },
+    "artist": "Tomokazu Komiya"
   },
   {
     "id": "me6-118",
@@ -6180,8 +6260,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "340",
     "types": [
@@ -6199,7 +6279,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60+",
-        "text": "This attack does 160 more damage if your opponent's Active Pokémon has any damage counters on it."
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 160 more damage."
       },
       {
         "name": "Quadruple Hold",
@@ -6210,7 +6290,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "160",
-        "text": "During your opponent's next turn, the Defending Pokémon can't Retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
@@ -6231,15 +6311,16 @@
       768
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-118/small",
       "large": "https://images.scrydex.com/pokemon/me6-118/large"
-    }
+    },
+    "artist": "5ban Graphics"
   },
   {
     "id": "me6-119",
@@ -6265,7 +6346,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30×",
-        "text": "This attack does 30 damage for each Basic Fire Energy card in your discard pile. Then, shuffle those Energy cards into your deck."
+        "text": "This attack does 30 damage for each Basic Fire Energy card in your discard pile. Then, shuffle those cards into your deck."
       },
       {
         "name": "Strong Flare",
@@ -6295,15 +6376,16 @@
       479
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-119/small",
       "large": "https://images.scrydex.com/pokemon/me6-119/large"
-    }
+    },
+    "artist": "5ban Graphics"
   },
   {
     "id": "me6-120",
@@ -6322,8 +6404,8 @@
     ],
     "abilities": [
       {
-        "name": "Ocean Gain",
-        "text": "You may use this Ability once during your turn if this Pokémon is in the Active Spot. Heal 50 damage from this Pokémon.",
+        "name": "Oceanic Gain",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Heal 50 damage from this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -6359,15 +6441,16 @@
       746
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-120/small",
       "large": "https://images.scrydex.com/pokemon/me6-120/large"
-    }
+    },
+    "artist": "5ban Graphics"
   },
   {
     "id": "me6-121",
@@ -6391,8 +6474,8 @@
           "Lightning"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "If you go first, you can use this attack during your first turn. Search your deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Power Rush",
@@ -6403,7 +6486,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
+        "text": "Flip a coin. If tails, during your next turn, this Pokémon can't use attacks."
       }
     ],
     "weaknesses": [
@@ -6412,23 +6495,24 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "121",
     "rarity": "Ultra Rare",
     "nationalPokedexNumbers": [
       243
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-121/small",
       "large": "https://images.scrydex.com/pokemon/me6-121/large"
-    }
+    },
+    "artist": "aky CG Works",
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-122",
@@ -6436,8 +6520,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "350",
     "types": [
@@ -6450,7 +6534,7 @@
     "abilities": [
       {
         "name": "Restricted Activation",
-        "text": "This Pokémon can't attack unless you have 10 cards or more in your hand.",
+        "text": "This Pokémon can't use attacks unless you have 10 or more cards in your hand.",
         "type": "Ability"
       }
     ],
@@ -6463,7 +6547,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "300",
-        "text": "This Pokémon does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
@@ -6490,15 +6574,16 @@
       623
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-122/small",
       "large": "https://images.scrydex.com/pokemon/me6-122/large"
-    }
+    },
+    "artist": "5ban Graphics"
   },
   {
     "id": "me6-123",
@@ -6506,8 +6591,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "320",
     "types": [
@@ -6557,15 +6642,16 @@
       687
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-123/small",
       "large": "https://images.scrydex.com/pokemon/me6-123/large"
-    }
+    },
+    "artist": "5ban Graphics"
   },
   {
     "id": "me6-124",
@@ -6585,14 +6671,14 @@
     ],
     "abilities": [
       {
-        "name": "Excitedive",
-        "text": "If this Pokémon is in your hand, and you have a Colorless Mega Evolution Pokémon in play, you may use this Ability. Put this Pokémon onto your Bench.",
+        "name": "Excited Dive",
+        "text": "Once during your turn, if this Pokémon is in your hand, and if you have any Colorless Mega Evolution Pokémon ex in play, you may use this Ability. Put this Pokémon onto your Bench.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Claw Hunt",
+        "name": "Talon Hunt",
         "cost": [
           "Colorless",
           "Colorless"
@@ -6614,23 +6700,24 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "124",
     "rarity": "Ultra Rare",
     "nationalPokedexNumbers": [
       663
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-124/small",
       "large": "https://images.scrydex.com/pokemon/me6-124/large"
-    }
+    },
+    "artist": "5ban Graphics",
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-125",
@@ -6640,69 +6727,69 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 3 Supporter or Stadium cards in any combination, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "You may play only 1 Supporter card during your turn."
+      "Search your deck for up to 3 in any combination of Supporter and Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "number": "125",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-125/small",
       "large": "https://images.scrydex.com/pokemon/me6-125/large"
-    }
+    },
+    "artist": "Sanosuke Sakuma"
   },
   {
     "id": "me6-126",
-    "name": "Adventuring Lantern",
+    "name": "Adventure Lantern",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Search your deck for a Basic Fire Energy and a Basic Lightning Energy, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "You may play as many Item cards as you like during your turn."
+      "Search your deck for a Basic Fire Energy card and a Basic Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "number": "126",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-126/small",
       "large": "https://images.scrydex.com/pokemon/me6-126/large"
-    }
+    },
+    "artist": "inose yukie"
   },
   {
     "id": "me6-127",
-    "name": "Customized Vest",
+    "name": "Custom Vest",
     "supertype": "Trainer",
     "subtypes": [
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon this card is attached to (excluding any Mega Pokémon ex) takes 60 less damage from the attacks of your opponent's Mega Pokémon ex.",
-      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+      "If the Pokémon this card is attached to isn't a Mega Evolution Pokémon ex, it takes 60 less damage from attacks from your opponent's Mega Evolution Pokémon ex (after applying Weakness and Resistance)."
     ],
     "number": "127",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-127/small",
       "large": "https://images.scrydex.com/pokemon/me6-127/large"
-    }
+    },
+    "artist": "Toyste Beach"
   },
   {
     "id": "me6-128",
@@ -6712,21 +6799,21 @@
       "Supporter"
     ],
     "rules": [
-      "Draw 2 cards. If your opponents has 3 or less Prize cards remaining, draw 2 more cards.",
-      "You may play only 1 Supporter card during your turn."
+      "Draw 2 cards. If your opponent has 3 or fewer Prize cards remaining, draw 2 more cards."
     ],
     "number": "128",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-128/small",
       "large": "https://images.scrydex.com/pokemon/me6-128/large"
-    }
+    },
+    "artist": "DOM"
   },
   {
     "id": "me6-129",
@@ -6736,15 +6823,14 @@
       "Item"
     ],
     "rules": [
-      "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
-      "You may play any number of Item cards during your turn."
+      "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
     ],
     "number": "129",
     "artist": "Studio Bora Inc.",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6761,15 +6847,14 @@
       "Supporter"
     ],
     "rules": [
-      "Draw 2 cards. Then, if there is a Stadium in play with \"Legendary\" in its name, put this card back into your hand instead of discarding it.",
-      "You may play only 1 Supporter card during your turn."
+      "Draw 2 cards. If you drew any cards in this way, and if a Stadium that has \"Legendary\" in its name is in play, put this Tate & Liza's Training into your hand instead of the discard pile."
     ],
     "number": "130",
     "artist": "Yuu Nishida",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6786,15 +6871,14 @@
       "Supporter"
     ],
     "rules": [
-      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move 1 Energy from your previous Active Pokémon to your new Active Pokémon.",
-      "You may play only 1 Supporter card during your turn."
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon."
     ],
     "number": "131",
     "artist": "GIDORA",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6811,20 +6895,21 @@
       "Special"
     ],
     "rules": [
-      "As long as this card is attached to a Pokémon, it provides Water Energy.\n\nThe Water Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions."
+      "As long as this card is attached to a Pokémon, it provides Water Energy.\n \nThe Water Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions."
     ],
     "number": "132",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-132/small",
       "large": "https://images.scrydex.com/pokemon/me6-132/large"
-    }
+    },
+    "artist": "—"
   },
   {
     "id": "me6-133",
@@ -6834,20 +6919,21 @@
       "Special"
     ],
     "rules": [
-      "As long as this card is attached to a Pokémon, it provides Grass Energy. The Grass Pokémon this card is attached to gets +20 HP."
+      "As long as this card is attached to a Pokémon, it provides Grass Energy.\n \nThe Grass Pokémon this card is attached to gets +20 HP."
     ],
     "number": "133",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-133/small",
       "large": "https://images.scrydex.com/pokemon/me6-133/large"
-    }
+    },
+    "artist": "—"
   },
   {
     "id": "me6-134",
@@ -6862,15 +6948,16 @@
     "number": "134",
     "rarity": "Ultra Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-134/small",
       "large": "https://images.scrydex.com/pokemon/me6-134/large"
-    }
+    },
+    "artist": "—"
   },
   {
     "id": "me6-135",
@@ -6878,8 +6965,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "340",
     "types": [
@@ -6897,7 +6984,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60+",
-        "text": "This attack does 160 more damage if your opponent's Active Pokémon has any damage counters on it."
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 160 more damage."
       },
       {
         "name": "Quadruple Hold",
@@ -6908,7 +6995,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "160",
-        "text": "During your opponent's next turn, the Defending Pokémon can't Retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
@@ -6930,8 +7017,8 @@
       768
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -6962,8 +7049,8 @@
           "Lightning"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "If you go first, you can use this attack during your first turn. Search your deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "damage": ""
       },
       {
         "name": "Power Rush",
@@ -6974,7 +7061,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
+        "text": "Flip a coin. If tails, during your next turn, this Pokémon can't use attacks."
       }
     ],
     "weaknesses": [
@@ -6983,8 +7070,6 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [],
-    "convertedRetreatCost": 0,
     "number": "136",
     "artist": "Oku",
     "rarity": "Special Illustration Rare",
@@ -6992,15 +7077,17 @@
       243
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me6-136/small",
       "large": "https://images.scrydex.com/pokemon/me6-136/large"
-    }
+    },
+    "retreatCost": [],
+    "convertedRetreatCost": 0
   },
   {
     "id": "me6-137",
@@ -7008,8 +7095,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "350",
     "types": [
@@ -7022,7 +7109,7 @@
     "abilities": [
       {
         "name": "Restricted Activation",
-        "text": "This Pokémon can't attack unless you have 10 cards or more in your hand.",
+        "text": "This Pokémon can't use attacks unless you have 10 or more cards in your hand.",
         "type": "Ability"
       }
     ],
@@ -7035,7 +7122,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "300",
-        "text": "This Pokémon does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
@@ -7063,8 +7150,8 @@
       623
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7079,8 +7166,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "280",
     "types": [
@@ -7092,7 +7179,7 @@
     "abilities": [
       {
         "name": "Ruler's Roar",
-        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy you find there to this Pokémon. Shuffle the remaining cards and put them on the bottom of your deck.",
+        "text": "Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.",
         "type": "Ability"
       }
     ],
@@ -7106,7 +7193,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50×",
-        "text": "This attack does 50 damage times the number of Fire and Lightning Energy attached to all of your Pokémon in play."
+        "text": "This attack does 50 damage for each Fire Energy and each Lightning Energy attached to all of your Pokémon."
       }
     ],
     "weaknesses": [
@@ -7133,8 +7220,8 @@
       384
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7151,15 +7238,14 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 3 Supporter or Stadium cards in any combination, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "You may play only 1 Supporter card during your turn."
+      "Search your deck for up to 3 in any combination of Supporter and Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "number": "139",
     "artist": "Shimaris Yukichi",
     "rarity": "Special Illustration Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7176,15 +7262,14 @@
       "Supporter"
     ],
     "rules": [
-      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move 1 Energy from your previous Active Pokémon to your new Active Pokémon.",
-      "You may play only 1 Supporter card during your turn."
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon."
     ],
     "number": "140",
     "artist": "Teeziro",
     "rarity": "Special Illustration Rare",
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
@@ -7199,8 +7284,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex",
-      "MEGA"
+      "MEGA",
+      "ex"
     ],
     "hp": "280",
     "types": [
@@ -7212,7 +7297,7 @@
     "abilities": [
       {
         "name": "Ruler's Roar",
-        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy you find there to this Pokémon. Shuffle the remaining cards and put them on the bottom of your deck.",
+        "text": "Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.",
         "type": "Ability"
       }
     ],
@@ -7226,7 +7311,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50×",
-        "text": "This attack does 50 damage times the number of Fire and Lightning Energy attached to all of your Pokémon in play."
+        "text": "This attack does 50 damage for each Fire Energy and each Lightning Energy attached to all of your Pokémon."
       }
     ],
     "weaknesses": [
@@ -7253,8 +7338,8 @@
       384
     ],
     "legalities": {
-      "unlimited": "Legal",
       "standard": "Legal",
+      "unlimited": "Legal",
       "expanded": "Legal"
     },
     "regulationMark": "J",
